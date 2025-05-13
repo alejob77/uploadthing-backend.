@@ -1,0 +1,10 @@
+{
+  "name": "uploadthing-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "uploadthing": "^5.0.0",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
